@@ -3,7 +3,7 @@
 This repository contains the code and data for an exploratory data analysis (EDA) project on cricket player statistics. In this project, we imported data from the website ESPN Cricinfo using HTML scraping and conducted various data cleaning and analysis tasks to answer specific questions.
 
 ## Project Details
-###Data Collection
+### Data Collection
 The data was obtained by importing the web content from the provided URL using HTML scraping. The imported data included the webpage's writings and logo, which were manually removed to extract the relevant information. The cleaned data was then structured into a table and saved as a CSV file for further analysis.
 
 ### Data Cleaning
