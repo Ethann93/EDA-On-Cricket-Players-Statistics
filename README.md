@@ -51,6 +51,6 @@ Required Python libraries (Pandas)
 **Ehsan Nabatchian**
 
 
-Acknowledgments
+## Acknowledgments
 Special thanks to ESPN Cricinfo for providing the cricket player statistics data used in this analysis.
 
